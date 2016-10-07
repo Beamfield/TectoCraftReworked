@@ -1,0 +1,15 @@
+[
+{
+  "modid": "tectocraft",
+  "name": "TectoCraft",
+  "description": "TectoCraft Reworked",
+  "version": "0.0.1a",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Beamfield"],
+  "credits": "Beamfield",
+  "screenshots": [],
+  "dependencies": [mod_MinecraftForge]
+}
+]
